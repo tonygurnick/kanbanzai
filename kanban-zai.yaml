@@ -1,0 +1,7 @@
+Kanban-Zai:
+  name: Tony Gurnick
+  version: 1
+  url: git@github.com:Kanban-Zai/red.git
+  extends: git@github.com:Kanban-Zai/kanban-zai-core.git
+  audit:
+    - git@github.com:Kanban-Zai/kanban-zai-core.git I got it started
